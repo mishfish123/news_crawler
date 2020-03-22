@@ -4,15 +4,6 @@ import dateparser
 from json import dumps 
 from dateutil import tz
 
-### constants ###
-
-#number of days to look back
-HOUR_OFFSET = 3
-# keywords to filter tags by
-FILTER_BY = ['coronavirus', 'virus', 'corona', 'covid', 'covid-19', 'pandemic', 'self-isolation', 'lockdown', 'schools']
-
-# rss feeds link file
-FNAME = 'rss_feeds.md'
 def newscrawler(rss_links_name, hour_offset, filter_by, file_to_write):
 
 	##### read link file #####
