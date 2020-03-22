@@ -1,0 +1,11 @@
+https://www.abc.net.au/news/feed/51120/rss.xml/
+https://www.watoday.com.au/rss/feed.xml/
+https://www.news.com.au/topics/coronavirus/feed/
+https://www.theguardian.com/au/rss/
+https://www.who.int/rss-feeds/news-english.xml/
+https://www.health.gov.au/news/rss.xml/
+https://www.sbs.com.au/news/topic/latest/feed/
+https://www.smh.com.au/rss/feed.xml/
+https://www.theage.com.au/rss/feed.xml/
+https://www.9news.com.au/rss/
+https://7news.com.au/rss/
