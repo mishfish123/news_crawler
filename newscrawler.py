@@ -5,7 +5,19 @@ from json import dumps
 from dateutil import tz
 
 def newscrawler(rss_links_name, hour_offset, filter_by, file_to_write):
+	"""
+	Crawls through the RSS links specified to get news, filtering by hour_offset (how old do you want the news) and
+	by keywords (filter_by)
 
+	Inputs: 
+		rss_links_name: {string} name of a file containing RSS links to crawl.
+		hour_offset: 	{int} number of hours old an article can be
+		filter_by:		{[string]} list of keywords. Article title or summary must have at least one keyword to be included
+		file_to_write:	{string} name of file to write .json output to. NOTE: overriding data in file given. 
+
+	Out:
+		.json file with news 
+	"""
 	##### read link file #####
 	rss_file = open(rss_links_name, 'r')
 	rss_feeds = rss_file.readlines()
