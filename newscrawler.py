@@ -73,7 +73,7 @@ def newscrawler(rss_links_name, hour_offset, filter_by, file_to_write, output_ty
 if __name__ == '__main__':
 	### default constants ###
 
-	#number of days to look back
+	#number of hours to look back
 	HOUR_OFFSET = 4
 	# keywords to filter tags by
 	FILTER_BY = ['coronavirus', 'virus', 'corona', 'covid', 'covid-19', 'pandemic', 'self-isolation', 'lockdown', 'schools', 'Australia']
