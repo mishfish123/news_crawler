@@ -76,7 +76,7 @@ if __name__ == '__main__':
 	#number of days to look back
 	HOUR_OFFSET = 4
 	# keywords to filter tags by
-	FILTER_BY = ['coronavirus', 'virus', 'corona', 'covid', 'covid-19', 'pandemic', 'self-isolation', 'lockdown', 'schools']
+	FILTER_BY = ['coronavirus', 'virus', 'corona', 'covid', 'covid-19', 'pandemic', 'self-isolation', 'lockdown', 'schools', 'Australia']
 
 	# rss feeds link file
 	FNAME = 'rss_feeds.md'

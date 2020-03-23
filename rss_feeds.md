@@ -9,3 +9,11 @@ https://www.smh.com.au/rss/feed.xml/
 https://www.theage.com.au/rss/feed.xml/
 https://www.9news.com.au/rss/
 https://7news.com.au/rss/
+https://www.health.nsw.gov.au/_layouts/feed.aspx?xsl=1&web=/news&page=4ac47e14-04a9-4016-b501-65a23280e841&wp=baabf81e-a904-44f1-8d59-5f6d56519965&pageurl=/news/Pages/rss-nsw-health.aspx
+https://www2.health.vic.gov.au/rss/health-alerts-and-advisories
+https://www2.health.vic.gov.au/rss/News
+https://thewest.com.au/rss
+https://theconversation.com/au/covid-19/articles.atom
+http://newsroom.nt.gov.au/api/RSS/NewsroomIndex
+https://www.canberratimes.com.au/rss.xml
+http://feeds.skynews.com/feeds/rss/world.xml
