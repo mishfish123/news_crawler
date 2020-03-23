@@ -1,338 +1,401 @@
 {
     "updateTime": [
         {
-            "time": "04:21PM 22 March 2020"
+            "time": "08:56PM 23 March 2020"
         }
     ],
     "news": [
         {
-            "url": "https://www.abc.net.au/news/2020-03-22/coronavirus-second-stimulus-package-how-much-money-you-will-get/12078972",
-            "title": "Confused about the coronavirus stimulus package? Here's what it means for your wallet",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "03:57PM"
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-byron-bay-tourists-ignore-social-distancing-rules-to-watch-sunset-c-758814",
+            "title": "Coronavirus: Byron Bay tourists ignore social distancing rules to watch sunset",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "08:48PM"
         },
         {
-            "url": "https://www.abc.net.au/news/2020-03-22/covid-19-sees-lockdowns-across-africa-as-cases-of-virus-grow/12078846",
-            "title": "Lockdowns as Africa starts to tackle 'one of the biggest health challenges in a generation'",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "03:31PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/coronavirus-vaccine-funding-university-queensland-cases/12079184",
-            "title": "'We've got to throw everything we've got at it': Coronavirus vaccine to be fast-tracked in Queensland",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "02:32PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/act-government-coronavirus-covid-19-andrew-barr/12079128",
-            "title": "Canberra COVID-19 cases more than double as Government looks to close public spaces",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "01:30PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/wa-sa-set-to-close-borders-amid-coronavirus-fight/12079044",
-            "title": "WA, SA to close borders over coronavirus, Rottnest Island investigated as quarantine zone",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "01:22PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/nsw-coronavirus-cases-rise-beyond-500/12079208",
-            "title": "NSW reaches more than 500 cases of COVID-19 with warnings about Bondi backpacker infections",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "01:20PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/coronavirus-nsw-victoria-shutdown-non-essential-services/12079124",
-            "title": "NSW, Victoria to shut down non-essential services in next 48 hours",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "12:37PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/appeal-to-beachgoers-defying-bondi-beach-ban-coronavirus/12078868",
-            "title": "Lifesavers being 'harassed' by beachgoers defying crowd bans over coronavirus fears",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "12:32PM"
-        },
-        {
-            "url": "https://www.abc.net.au/news/2020-03-22/northern-territory-coronavirus-staffing-nt-health-explains/12073662",
-            "title": "How the NT Government plans to cope with extra pressure from coronavirus",
-            "source": "Newson1ine@abc.net.au (ABC News)",
-            "date": "22 March 2020",
-            "time": "12:29PM"
-        },
-        {
-            "url": "https://www.news.com.au/lifestyle/health/health-problems/coronavirus-australia-covid19-cases-in-nsw-victoria-queensland-sa-wa-tasmania-act-and-nt/news-story/1e0505f8ad253c58ffa91bfe953a6791",
-            "title": "Infection rates doubling every three days",
-            "source": "https://www.news.com.au/topics/coronavirus/feed/",
-            "date": "22 March 2020",
-            "time": "03:05PM"
-        },
-        {
-            "url": "https://www.theguardian.com/world/live/2020/mar/22/coronavirus-updates-live-australia-nsw-victoria-qld-tasmania-cases-government-stimulus-latest-update-news",
-            "title": "Australia coronavirus updates live: NSW and Victoria to shut down non-essential services as Morrison unveils $189bn rescue package \u2013 latest",
+            "url": "https://www.theguardian.com/business/live/2020/mar/23/markets-slump-us-senate-covid-19-ftse-dax-shares-recession-stimulus-business-live",
+            "title": "Markets slump as US Senate deadlocked over Covid-19 stimulus - business live",
             "source": "https://www.theguardian.com/au/rss/",
-            "date": "22 March 2020",
-            "time": "04:11PM"
+            "date": "23 March 2020",
+            "time": "08:41PM"
         },
         {
-            "url": "https://www.theguardian.com/business/2020/mar/22/what-australias-189bn-coronavirus-economic-rescue-package-means-for-you",
-            "title": "What Australia's $189bn coronavirus economic rescue package means for you",
+            "url": "https://www.theguardian.com/world/live/2020/mar/23/australia-coronavirus-updates-live-pubs-closed-but-schools-open-after-national-cabinet-meeting-latest",
+            "title": "Coronavirus live updates Australia: Stock market falls 5.6%, NRL suspends 2020 season \u2013 latest",
             "source": "https://www.theguardian.com/au/rss/",
-            "date": "22 March 2020",
-            "time": "02:11PM"
+            "date": "23 March 2020",
+            "time": "08:41PM"
         },
         {
-            "url": "https://www.theguardian.com/world/live/2020/mar/22/coronavirus-news-coronavirus-live-updates-deaths-uk-italy-lockdown-spain-us-new-york-south-america",
-            "title": "Coronavirus news updates: concern as Britons defy stay-at-home orders; Italy tightens lockdown",
+            "url": "https://www.theguardian.com/world/live/2020/mar/23/coronavirus-live-updates-uk-us-italy-germany-europe-outbreak-cases-meetings-bans-update-latest-news",
+            "title": "Coronavirus news: New Zealand announces lockdown; Hong Kong bars entry to all non-residents - live updates",
             "source": "https://www.theguardian.com/au/rss/",
-            "date": "22 March 2020",
-            "time": "04:01PM"
+            "date": "23 March 2020",
+            "time": "08:36PM"
         },
         {
-            "url": "https://www.theguardian.com/world/2020/mar/22/australian-jobseekers-to-get-550-increase-as-part-of-huge-coronavirus-welfare-package",
-            "title": "Australian jobseekers to get $550 increase as part of huge coronavirus welfare package",
-            "source": "https://www.theguardian.com/au/rss/",
-            "date": "22 March 2020",
-            "time": "03:49PM"
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/italian-doctor-issues-warning-to-the-rest-of-the-world-amid-coronavirus-pandemic-c-758743",
+            "title": "Italian doctor issues warning to the rest of the world amid coronavirus pandemic",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "08:21PM"
         },
         {
-            "url": "https://www.theguardian.com/us-news/2020/mar/22/a-citizens-guide-to-beating-donald-trump-review-dispatches-from-a-time-before-the-virus",
-            "title": "A Citizen's Guide to Beating Donald Trump review: dispatches from a time before the virus",
-            "source": "https://www.theguardian.com/au/rss/",
-            "date": "22 March 2020",
-            "time": "04:00PM"
-        },
-        {
-            "url": "https://www.9news.com.au/national/coronavirus-nsw-and-victoria-call-for-stricter-lockdown/07d8256a-0017-42f4-9f23-1a0f0520ae58",
-            "title": "Schools to close within days as states begin total lockdown",
+            "url": "https://www.9news.com.au/national/coronavirus-shoppers-panic-buying-gaming-consoles-nintendo-switch-playstation-4-call-of-duty-crisis/41518b64-74d4-468a-9bc5-bf66cc5e87ac",
+            "title": "Shoppers panic buy gaming consoles in fear of 'boredom crisis'",
             "source": "https://www.9news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:05PM"
+            "date": "23 March 2020",
+            "time": "08:19PM"
         },
         {
-            "url": "https://www.9news.com.au/national/coronavirus-south-australia-to-close-borders-and-require-arrivals-to-self-isolate/bcebab5c-e63a-4587-8079-6c7553eb3d43",
-            "title": "SA to close borders and require all arrivals to self-isolate",
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/treasurer-reveals-when-youll-receive-your-coronavirus-stimulus-payments-c-758809",
+            "title": "Treasurer reveals when you\u2019ll receive your coronavirus stimulus payments",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "08:14PM"
+        },
+        {
+            "url": "https://www.theguardian.com/football/2020/mar/23/marco-asensio-wins-fifa-tournament-for-real-madrid-coronavirus-la-liga-video-game",
+            "title": "Marco Asensio wins Fifa tournament for Real Madrid, watched by 170,000 fans",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "08:13PM"
+        },
+        {
+            "url": "https://www.theguardian.com/world/2020/mar/23/fit-healthy-36-year-old-uk-nurse-intensive-care-coronavirus",
+            "title": "'Fit and healthy' 36-year-old UK nurse in intensive care with coronavirus",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "08:09PM"
+        },
+        {
+            "url": "https://www.theguardian.com/film/2020/mar/23/what-will-happen-to-the-films-delayed-by-coronavirus",
+            "title": "Heaven can wait: what will happen to the films delayed by coronavirus?",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "08:00PM"
+        },
+        {
+            "url": "https://www.theguardian.com/commentisfree/2020/mar/23/covid-19-activists-helping-elderly-vulnerable-people-political",
+            "title": "The fight against Covid-19 is being waged street by street | Zoe Williams",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "08:00PM"
+        },
+        {
+            "url": "https://7news.com.au/politics/law-and-order/pandemic-prompts-more-vic-court-delays-c-758808",
+            "title": "Pandemic prompts more Vic court delays",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "07:56PM"
+        },
+        {
+            "url": "https://www.9news.com.au/national/coronavirus-australia-live-updates-nsw-vic-act-lockdown-school-closure-status/2deddcba-5b9e-483e-84e3-109a852989bc",
+            "title": "People 'in tears' turned away from Centrelink",
             "source": "https://www.9news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:58PM"
+            "date": "23 March 2020",
+            "time": "07:52PM"
         },
         {
-            "url": "https://www.9news.com.au/national/coronavirus-canberra-covid-19-cases-climb-to-19-over-24-hours/2ff41dfc-fcff-4ca9-b34d-b321ab424219",
-            "title": "Coronavirus cases in the ACT more than doubles in 24 hours",
+            "url": "https://www.abc.net.au/news/2020-03-23/colombian-prison-riots-over-coronavirus-fears-leave-23-dead/12081836",
+            "title": "Colombian prison violence inmates say was sparked by coronavirus fears leaves 23 dead",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "07:48PM"
+        },
+        {
+            "url": "https://www.abc.net.au/news/2020-03-23/claremont-serial-killings-trial-cut-short-coronavirus-measures/12081950",
+            "title": "Claremont serial killings trial cut short as court adopts coronavirus precautions",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "07:47PM"
+        },
+        {
+            "url": "https://www.9news.com.au/national/coronavirus-jobs-lost-nrl-suspended-tokyo-olympics-under-threat-australians-stranded-on-cruise-ships-borders-closed/5e217428-46b4-4ea9-ab94-b3d9903da7ef",
+            "title": "'You'd think I was making it up': How one day changed Australia",
             "source": "https://www.9news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:17PM"
+            "date": "23 March 2020",
+            "time": "07:41PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/act-virus-cases-double-to-19-overnight-c-756944",
-            "title": "ACT coronavirus cases double overnight",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "04:03PM"
+            "url": "https://www.theguardian.com/world/2020/mar/23/australians-onboard-costa-lumiosa-cruise-feel-kidnapped-after-being-forced-to-isolate-in-italy",
+            "title": "Australians onboard Costa Luminosa cruise feel 'kidnapped' after being forced to isolate in Italy",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "07:41PM"
         },
         {
-            "url": "https://7news.com.au/news/health/wa-borders-to-close-as-virus-cases-surge-c-756931",
-            "title": "Western Australia\u2019s borders to close as virus cases jump again",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:42PM"
+            "url": "https://www.theguardian.com/us-news/2020/mar/23/pompeo-arrives-in-kabul-despite-us-advice-against-international-travel-coronavirus",
+            "title": "Pompeo arrives in Kabul to try to revive flagging Afghan peace talks",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "07:33PM"
         },
         {
-            "url": "https://7news.com.au/news/health/states-shutting-down-as-virus-cases-rise-c-756923",
-            "title": "States shutting down as virus cases rise",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:40PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-shutdowns-force-thousands-onto-centrelink/12082468",
+            "title": "The coronavirus crisis becomes real for thousands as jobs evaporate overnight",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "07:33PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-cases-linked-to-ruby-princess-cruise-ship-docked-in-sydney-increase-to-18-c-756909",
-            "title": "Coronavirus cases linked to Ruby Princess cruise ship docked in Sydney increase to 18",
+            "url": "https://7news.com.au/sport/netball/super-netball-joins-sport-postponements-c-758566",
+            "title": "Super Netball joins sport postponements",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:27PM"
+            "date": "23 March 2020",
+            "time": "07:31PM"
         },
         {
-            "url": "https://7news.com.au/news/health/japan-14-virus-cases-at-medical-centre-c-756917",
-            "title": "Japan - 14 virus cases at medical centre",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:26PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-and-church-no-pews-no-problems/12082352",
+            "title": "No pews? No problems: Churches go virtual in the age of COVID-19",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "07:24PM"
         },
         {
-            "url": "https://7news.com.au/news/health/sex-toys-sales-up-as-brothels-take-a-hit-c-756905",
-            "title": "Sex toys sales up as brothels take a hit",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "03:13PM"
+            "url": "https://www.theguardian.com/world/2020/mar/23/harvey-weinstein-tests-positive-for-coronavirus",
+            "title": "Harvey Weinstein tests positive for coronavirus",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "07:20PM"
         },
         {
-            "url": "https://7news.com.au/sport/afl/afl-working-through-new-virus-restrictions-c-756772",
-            "title": "AFL to address new virus restrictions",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:57PM"
+            "url": "https://www.theguardian.com/world/2020/mar/23/am-i-eligible-for-centrelink-payments-how-to-apply-for-the-coronavirus-supplement",
+            "title": "Am I eligible for Centrelink payments? How to apply for the coronavirus supplement",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "07:20PM"
         },
         {
-            "url": "https://7news.com.au/news/health/hong-kong-coronavirus-cases-spike-c-756887",
-            "title": "Hong Kong coronavirus cases spike",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:45PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/harvey-weinstein-tests-positive-for-coronavirus-in-prison/12082324",
+            "title": "Harvey Weinstein tests positive for coronavirus in prison",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "07:17PM"
         },
         {
-            "url": "https://7news.com.au/news/health/sa-becomes-latest-state-to-close-borders-c-756769",
-            "title": "SA becomes latest state to close borders",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:42PM"
+            "url": "https://www.theguardian.com/business/2020/mar/23/virgin-australia-qantas-accc-investigate-campaign-competition",
+            "title": "Virgin Australia asks competition watchdog to investigate Qantas 'campaign' against it",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "07:11PM"
         },
         {
-            "url": "https://7news.com.au/politics/immediate-virus-test-kit-needs-met-pm-c-756874",
-            "title": "Immediate virus test kit needs met: PM",
+            "url": "https://7news.com.au/travel/coronavirus/the-university-of-wa-confirms-a-student-has-tested-positive-for-coronavirus-c-758740",
+            "title": "The University of WA confirms a student has tested positive for coronavirus",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:35PM"
+            "date": "23 March 2020",
+            "time": "07:05PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/queensland-records-38-new-cases-of-coronavirus-bringing-the-states-total-to-259-c-756828",
-            "title": "Queensland records 38 new cases of coronavirus, bringing the state\u2019s total to 259",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:29PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-pub-closures-devastate-drought-fire-affected-towns/12081050",
+            "title": "Drought, bushfires merely a 'warm-up' for towns now faced with coronavirus shutdown",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "06:49PM"
         },
         {
-            "url": "https://7news.com.au/news/health/what-you-need-to-know-about-virus-outbreak-c-756864",
-            "title": "What you need to know about virus outbreak",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:26PM"
+            "url": "https://www.theguardian.com/sport/2020/mar/23/nrl-australia-sport-coronavirus",
+            "title": "NRL plunged into 'financial crisis' as season is suspended in response to Covid-19",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "06:47PM"
         },
         {
-            "url": "https://7news.com.au/politics/nsw-braces-for-comprehensive-shutdown-c-756857",
-            "title": "NSW braces for 'comprehensive shutdown'",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:20PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/brewers-warn-beer-supply-could-dry-up-coronavirus-shutdowns/12081976",
+            "title": "Brewers warn beer supply could dry up within weeks if coronavirus restrictions halt production",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "06:42PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-fears-forcing-a-comprehensive-shutdown-of-non-essential-services-across-nsw-c-756852",
-            "title": "Coronavirus fears forcing a \u2018comprehensive shutdown\u2019 of \u2018non-essential services\u2019 across NSW",
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/hollywood-legend-tom-hanks-calls-for-people-to-make-sacrifices-to-beat-coronavirus-c-758669",
+            "title": "Hollywood legend Tom Hanks calls for people to make sacrifices to beat coronavirus",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:18PM"
+            "date": "23 March 2020",
+            "time": "06:41PM"
         },
         {
-            "url": "https://7news.com.au/sport/soccer/united-support-diamanti-as-italy-suffers-c-756836",
-            "title": "United support Diamanti as Italy suffers",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "02:08PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-shutdown-hits-darwin-restaurants-gyms-covid-19/12081956",
+            "title": "Darwin traders determined to tough out coronavirus storm",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "06:37PM"
         },
         {
-            "url": "https://7news.com.au/politics/pm-not-eyeing-virus-repatriation-flights-c-756822",
-            "title": "PM not eyeing virus repatriation flights",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:55PM"
+            "url": "https://www.theguardian.com/world/gallery/2020/mar/23/coronavirus-us-cities-quarantine-in-pictures",
+            "title": "US cities in coronavirus quarantine, seen from above \u2013\u00a0in pictures",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "06:29PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-cases-surge-by-almost-100-in-new-south-wales-in-a-24-hour-span-c-756810",
-            "title": "Coronavirus cases surge by almost 100 in New South Wales in a 24-hour span",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:48PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/australians-plead-to-be-evacuated-from-peru-coronavirus-lockdown/12080966",
+            "title": "Australians plead to be evacuated from Peru's coronavirus lockdown",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "06:27PM"
         },
         {
-            "url": "https://7news.com.au/sport/footy-codes-ok-to-continue-travel-for-now-c-756736",
-            "title": "Footy codes face growing virus challenge",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:40PM"
+            "url": "https://www.9news.com.au/national/coronavirus-victoria-cinemas-country-struggle-to-survive-after-shutdown/74f416d7-ef97-4db7-831f-d98f6d66c356",
+            "title": "Bushfires and COVID-19 mean year of woe for country cinema",
+            "source": "https://www.9news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "06:23PM"
         },
         {
-            "url": "https://7news.com.au/business/virus-hit-firms-to-be-given-flexibility-c-756805",
-            "title": "Virus-hit firms to be given flexibility",
+            "url": "https://7news.com.au/sport/afl/lions-veteran-slams-crowdless-afl-games-c-758710",
+            "title": "Lions veteran slams crowdless AFL games",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:38PM"
+            "date": "23 March 2020",
+            "time": "06:22PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/1000-a-fortnight-for-covid-job-seekers-heres-how-you-can-access-it-c-756724",
-            "title": "$1100 a fortnight for COVID job seekers - here\u2019s how you can access it",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:35PM"
+            "url": "https://www.theguardian.com/world/2020/mar/23/hospitals-likened-to-war-zones-as-doctors-prepare-to-make-grim-decisions",
+            "title": "NHS hospitals likened to war zones as doctors prepare to make grim decisions",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "06:16PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-cases-surge-by-49-in-victoria-bringing-the-statewide-total-to-278-c-756635",
-            "title": "Coronavirus cases surge by 67 in Victoria - bringing the statewide total to 296",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:31PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/nrl-announces-suspension-of-2020-season-due-to-coronavirus/12082158",
+            "title": "NRL announces suspension of 2020 season due to coronavirus pandemic",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "06:16PM"
         },
         {
-            "url": "https://7news.com.au/sport/afl/afl-season-almost-certainly-done-after-sa-closes-borders-c-756780",
-            "title": "Coronavirus update: AFL season edges towards suspension after South Australia closes borders",
+            "url": "https://7news.com.au/politics/govt-sets-extra-40b-aside-for-virus-fight-c-758633",
+            "title": "Govt sets extra $40b aside for virus fight",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:27PM"
+            "date": "23 March 2020",
+            "time": "06:12PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-to-force-early-closure-of-victorian-schools-ahead-of-holidays-c-756747",
-            "title": "Coronavirus to force early closure of Victorian schools ahead of holidays",
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-quarantine-rules-in-sa-could-land-you-in-prison-c-758642",
+            "title": "Coronavirus quarantine rules in SA could land you in prison",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:12PM"
+            "date": "23 March 2020",
+            "time": "06:10PM"
         },
         {
-            "url": "https://7news.com.au/news/health/philippines-reports-73-new-virus-cases-c-756764",
-            "title": "Philippines reports 73 new virus cases",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:11PM"
+            "url": "https://www.theguardian.com/world/2020/mar/23/a-warning-to-europe-italy-struggle-to-convince-citizens-of-coronavirus-crisis",
+            "title": "Italy struggled to convince citizens of coronavirus crisis. What can Europe learn?",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "06:10PM"
         },
         {
-            "url": "https://7news.com.au/lifestyle/health-wellbeing/coronavirus-causes-temporary-closure-of-south-australian-borders-c-756758",
-            "title": "Coronavirus causes temporary closure of South Australian borders",
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/countdown-to-wa-lockdown-as-cases-surge-c-757333",
+            "title": "Cruise ship off WA coast denies anyone onboard is infected with coronavirus",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:10PM"
+            "date": "23 March 2020",
+            "time": "06:00PM"
         },
         {
-            "url": "https://7news.com.au/entertainment/tv/big-brother-austalia-in-lockdown-due-to-coronavirus-c-756748",
-            "title": "Big Brother Austalia in lockdown due to coronavirus",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "01:07PM"
+            "url": "https://www.abc.net.au/news/2020-03-23/malaria-drugs-labelled-early-coronavirus-covid19-cures-treatment/12081306",
+            "title": "Donald Trump touted a drug as a coronavirus 'game changer' \u2014 and it triggered a pharmacy rush",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:59PM"
         },
         {
-            "url": "https://7news.com.au/news/health/india-starts-14-hour-curfew-to-curb-virus-c-756746",
-            "title": "Indians in nationwide curfew to curb virus",
+            "url": "https://7news.com.au/politics/virus-turns-question-time-into-answer-time-c-758667",
+            "title": "Virus turns question time into answer time",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "12:58PM"
+            "date": "23 March 2020",
+            "time": "05:58PM"
         },
         {
-            "url": "https://7news.com.au/sport/afl/coronavirus-update-scott-morrisons-latest-bans-could-impact-afl-and-nrl-c-756727",
-            "title": "Coronavirus update: Scott Morrison\u2019s latest bans could impact AFL and NRL",
-            "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "12:38PM"
+            "url": "https://www.theguardian.com/commentisfree/2020/mar/23/the-country-is-being-run-by-a-marketing-manager-who-cant-get-the-message-out-dont-go-out",
+            "title": "The country is being run by a marketing manager who can\u2019t get the message out: DON\u2019T GO OUT! | First Dog on the Moon",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "05:56PM"
         },
         {
-            "url": "https://7news.com.au/news/health/skorea-reports-98-new-coronavirus-cases-c-756735",
-            "title": "SKorea's new virus cases back under 100",
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-shut-down-has-sa-town-of-robe-worried/12081570",
+            "title": "Seaside town of Robe advises against grey nomads coming to self-isolate from coronavirus",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:49PM"
+        },
+        {
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/sales-of-alcohol-in-wa-could-be-limited-to-avoid-panic-buying-c-758618",
+            "title": "Sales of alcohol in WA could be limited to avoid panic buying",
             "source": "https://7news.com.au/rss/",
-            "date": "22 March 2020",
-            "time": "12:36PM"
+            "date": "23 March 2020",
+            "time": "05:48PM"
+        },
+        {
+            "url": "https://7news.com.au/sport/rugby-league/nrl-suspend-season-due-to-covid-19-c-758656",
+            "title": "NRL suspend season due to COVID-19",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "05:46PM"
+        },
+        {
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-myths-from-around-the-world-busted-by-experts/12054310",
+            "title": "Can heat kill coronavirus? What about drinking alcohol? Here's the experts' take on COVID-19 'cures'",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:41PM"
+        },
+        {
+            "url": "https://www.abc.net.au/news/2020-03-23/why-is-indonesia-coronavirus-death-rate-highest-in-world/12079040",
+            "title": "Why is Indonesia's coronavirus death rate the highest in the world?",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:32PM"
+        },
+        {
+            "url": "https://7news.com.au/politics/govt-playing-cruise-ship-blame-game-labor-c-758627",
+            "title": "Govt playing cruise ship blame game: Labor",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "05:25PM"
+        },
+        {
+            "url": "https://www.abc.net.au/news/2020-03-23/coronavirus-claims-aflw-season-equal-women/12080460",
+            "title": "One team was the biggest loser of the early demise of the AFLW",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:20PM"
+        },
+        {
+            "url": "https://7news.com.au/lifestyle/health-wellbeing/hand-sanitiser-factory-in-melbourne-working-overtime-to-meet-coronavirus-demand-c-758594",
+            "title": "Hand sanitiser factory in Melbourne working overtime to meet coronavirus demand",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "05:13PM"
+        },
+        {
+            "url": "https://www.abc.net.au/news/2020-03-23/centrelink-payments-for-coronavirus-too-long-to-wait/12080952",
+            "title": "'We've always said $40 a day was not enough': Coronavirus crisis exposes Centrelink",
+            "source": "Newson1ine@abc.net.au (ABC News)",
+            "date": "23 March 2020",
+            "time": "05:13PM"
+        },
+        {
+            "url": "https://7news.com.au/politics/labor-warns-off-plan-to-ditch-parliament-c-758604",
+            "title": "'Absurd': parliament to shut until August",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "05:07PM"
+        },
+        {
+            "url": "https://www.theguardian.com/australia-news/2020/mar/23/early-access-to-superannuation-over-coronavirus-should-be-last-resort-advocates",
+            "title": "Early access to superannuation over coronavirus should be last resort \u2013 advocates",
+            "source": "https://www.theguardian.com/au/rss/",
+            "date": "23 March 2020",
+            "time": "05:03PM"
+        },
+        {
+            "url": "https://7news.com.au/politics/emotional-gunner-outlines-nt-virus-impact-c-758592",
+            "title": "Emotional Gunner outlines NT virus impact",
+            "source": "https://7news.com.au/rss/",
+            "date": "23 March 2020",
+            "time": "05:01PM"
         }
     ]
 }
