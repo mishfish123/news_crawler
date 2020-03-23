@@ -17,3 +17,5 @@ https://theconversation.com/au/covid-19/articles.atom
 http://newsroom.nt.gov.au/api/RSS/NewsroomIndex
 https://www.canberratimes.com.au/rss.xml
 http://feeds.skynews.com/feeds/rss/world.xml
+http://statements.qld.gov.au/Feed/Latest/25
+http://statements.qld.gov.au/Feed/minister-for-health-and-minister-for-ambulance-services
