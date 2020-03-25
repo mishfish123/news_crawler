@@ -4,7 +4,11 @@ import dateparser
 from json import dumps 
 from dateutil import tz
 import csv
-
+# Set default context
+import ssl
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
+		
 def newscrawler(rss_links_name, hour_offset, filter_by, file_to_write, output_type='csv'):
 	"""
 	Crawls through the RSS links specified to get news, filtering by hour_offset (how old do you want the news) and
